@@ -2,6 +2,7 @@ import aih
 import base64
 import json
 
+
 aih_client = aih.init(app_id="APP_ID", secret_key="SECRET_KEY")
 
 
